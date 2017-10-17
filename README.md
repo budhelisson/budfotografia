@@ -8,7 +8,7 @@ Se quiser experimentar essa experiência comigo é só entrar em contato.
 o/
 
 Acesse:
-http://budfotografia.github.io
+https://budhelisson.github.io/budfotografia/
 
 Clique para me chamar no whatsapp:
-https://api.whatsapp.com/send?phone=5561996761988&amp;text=Olá,%20gostaria%20de%20fazer%20um%20orçamento!
+https://goo.gl/BvXvJj
